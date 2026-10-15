@@ -1,6 +1,8 @@
 # Circuit boards
 
-Wavie's four circuit boards, as [EasyEDA Pro](https://easyeda.com) projects (free, in the browser or as a desktop app). Each `.eprj` file holds the schematic and the board layout; open or import it in EasyEDA Pro.
+Wavie's four circuit boards, as [EasyEDA Pro](https://pro.easyeda.com) projects. Each `.epro` file holds the full project: schematic, board layout and parts. Import it into EasyEDA Pro (free, in the browser at [pro.easyeda.com](https://pro.easyeda.com) or as a desktop app) with **File → Import → EasyEDA Pro**; KiCad can also import `.epro` files.
+
+From the project you can export whatever you need: Gerbers to have a board made, a BOM, pick-and-place files, schematic PDFs or a 3D model.
 
 | Folder | Board | What it does |
 |---|---|---|
@@ -13,4 +15,4 @@ The light sensor is a ready-made TSL2591 module, so it has no board file here.
 
 The [wiki](https://github.com/reefmetrics/wavie-hardware/wiki) explains what is on each board: [Electronics](https://github.com/reefmetrics/wavie-hardware/wiki/Electronics), [Optics](https://github.com/reefmetrics/wavie-hardware/wiki/Optics), [Lighting](https://github.com/reefmetrics/wavie-hardware/wiki/Lighting).
 
-These are pre-release designs and will change before Beta Kits ship. Gerber, BOM and schematic PDF exports will be added for each released revision. Licensed under [CC BY-NC-SA 4.0](../LICENSE).
+These are pre-release designs and will change before Beta Kits ship. Licensed under [CC BY-NC-SA 4.0](../LICENSE).

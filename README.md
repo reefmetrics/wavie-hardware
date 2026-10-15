@@ -33,7 +33,7 @@ Wavie is built to be opened, understood and repaired by the person who owns it.
 | Folder | Contents | Open with |
 |---|---|---|
 | [`cad/`](cad) | The mechanical design: the frame assembly and every part placed in it | [FreeCAD](https://www.freecad.org) 1.1 or newer (free) |
-| [`pcb/`](pcb) | The four circuit boards: mainboard, LED board, RGB ring board and logo backlight | [EasyEDA Pro](https://easyeda.com) (free) |
+| [`pcb/`](pcb) | The four circuit boards: mainboard, LED board, RGB ring board and logo backlight | [EasyEDA Pro](https://pro.easyeda.com) (free, in the browser) |
 
 Each folder has its own README listing what every file is.
 
