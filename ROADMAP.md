@@ -9,7 +9,7 @@ Estimated to ship Q1–Q2 2027, provided the project is fully funded.
 | Area | Planned | State |
 |---|---|---|
 | Enclosure and mechanics | Sealed tower, removable sleeve, modular pump, optics and valve | CAD frozen |
-| Electronics | Mainboard, LED board, RGB ring board, logo backlight | First mainboard built, in validation |
+| Electronics | Main board, LED array, RGB board | First mainboard built, in validation |
 | Probes | Continuous pH, ORP, salinity and temperature | In development |
 | Dissolved oxygen | Input built in; probe sold separately at launch | In development |
 | Reagent chemistry | Alkalinity, calcium, magnesium, nitrate, phosphate | Not yet formulated |
