@@ -16,7 +16,7 @@ The whole instrument is a tower 184 mm tall and 88 mm square.
 
 Wavie is in development. The **Wavie Beta Kit** is open for pre-order at [reef-metrics.com](https://www.reef-metrics.com/#beta-kit) and is estimated to ship in Q1–Q2 2027, provided the project is fully funded.
 
-- The reagent chemistry has not been formulated yet.
+- The reagent chemistry is in development; formulation has started.
 - Firmware and the app are still being built.
 - See the [roadmap](ROADMAP.md) for what is planned.
 

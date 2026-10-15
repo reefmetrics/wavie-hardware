@@ -9,10 +9,10 @@ Estimated to ship Q1–Q2 2027, provided the project is fully funded.
 | Area | Planned | State |
 |---|---|---|
 | Enclosure and mechanics | Sealed tower, removable sleeve, modular pump, optics and valve | CAD frozen |
-| Electronics | Main board, LED array, RGB board | First mainboard built, in validation |
+| Electronics | Main board, LED array, RGB board | In development; board revisions are published in [`pcb/`](pcb) |
 | Probes | Continuous pH, ORP, salinity and temperature | In development |
 | Dissolved oxygen | Input built in; probe sold separately at launch | In development |
-| Reagent chemistry | Alkalinity, calcium, magnesium, nitrate, phosphate | Not yet formulated |
+| Reagent chemistry | Alkalinity, calcium, magnesium, nitrate, phosphate | Formulation started, in development |
 | Firmware | Scheduled tests, calibration, self-test, over-the-air updates | In development |
 | ReefMetrics app | Readings, trends and alerts on iOS, Android and web | In development |
 | Lighting | Custom ring and logo colours, status at a glance | In development |
