@@ -24,9 +24,18 @@ Wavie is in development. The **Wavie Beta Kit** is open for pre-order at [reef-m
 
 Wavie is built to be opened, understood and repaired by the person who owns it.
 
-- **This repository** will hold the hardware design files: CAD, schematics and board files. They are not published yet. They will be released here when Beta Kits ship.
+- **This repository** holds the hardware design files: the mechanical CAD and the circuit boards. They are pre-release designs and will change before Beta Kits ship.
 - **[The wiki](../../wiki)** explains how each part of Wavie works.
 - **Replacement parts** will be sold at cost.
+
+### What's in this repository
+
+| Folder | Contents | Open with |
+|---|---|---|
+| [`cad/`](cad) | The mechanical design: the frame assembly and every part placed in it | [FreeCAD](https://www.freecad.org) 1.1 or newer (free) |
+| [`pcb/`](pcb) | The four circuit boards: mainboard, LED board, RGB ring board and logo backlight | [EasyEDA Pro](https://easyeda.com) (free) |
+
+Each folder has its own README listing what every file is.
 
 ### What you may do
 

@@ -9,7 +9,7 @@ Estimated to ship Q1–Q2 2027, provided the project is fully funded.
 | Area | Planned | State |
 |---|---|---|
 | Enclosure and mechanics | Sealed tower, removable sleeve, modular pump, optics and valve | CAD frozen |
-| Electronics | Mainboard, LED board, RGB ring board | First mainboard built, in validation |
+| Electronics | Mainboard, LED board, RGB ring board, logo backlight | First mainboard built, in validation |
 | Probes | Continuous pH, ORP, salinity and temperature | In development |
 | Dissolved oxygen | Input built in; probe sold separately at launch | In development |
 | Reagent chemistry | Alkalinity, calcium, magnesium, nitrate, phosphate | Not yet formulated |
@@ -22,7 +22,7 @@ Estimated to ship Q1–Q2 2027, provided the project is fully funded.
 
 | Item | State |
 |---|---|
-| Hardware design files published in this repository | Planned for when Beta Kits ship |
+| Hardware design files published in this repository | Published October 2026 as pre-release designs; updated as the hardware changes |
 | Replacement parts sold at cost | Planned |
 | Reagent refills and the dissolved oxygen probe in the store | Planned for launch |
 | Wavie Dose, a dosing unit driven by Wavie's results | Planned, no release date |

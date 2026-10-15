@@ -1,0 +1,4 @@
+# FreeCAD backups and EasyEDA backups/recovery
+*.FCBak
+*.FCStd1
+*_backup/
