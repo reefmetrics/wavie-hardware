@@ -49,7 +49,7 @@ This is a non-commercial licence, so Wavie is open hardware in the sense that th
 
 ### What is not open
 
-- **Reagent formulations** are not published. Reagents for Wavie are made and sold only by ReefMetrics, which is what funds the project.
+- **Reagent formulations** are not published today. Reagents for Wavie are made by ReefMetrics and will be offered as a subscription, which is what funds the project. If the project gains traction, we may publish the formulations in future.
 - **The names and logo.** "Wavie", "ReefMetrics" and the crescent logo are not covered by the licence. Please do not use them for your own products.
 
 ## Community

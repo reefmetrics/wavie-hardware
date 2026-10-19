@@ -24,6 +24,6 @@ Estimated to ship Q1–Q2 2027, provided the project is fully funded.
 |---|---|
 | Hardware design files published in this repository | Published October 2026 as pre-release designs; updated as the hardware changes |
 | Replacement parts sold at cost | Planned |
-| Reagent refills and the dissolved oxygen probe in the store | Planned for launch |
+| Reagent subscription and the dissolved oxygen probe in the store | Planned for launch |
 | Wavie Dose, a dosing unit driven by Wavie's results | Planned, no release date |
 | Wavie Power, switched power and control for tank equipment | Planned, no release date |
